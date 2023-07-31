@@ -1,5 +1,9 @@
 # Image Upscaler (Frontend)
 
+
+![image](https://github.com/ozanaw0w/image-upscale-frontend/assets/128615321/4ef54633-1940-422b-aec3-706831daa3b5)
+
+
 ## Description
 
 The Frontend Repository for the Waifu2x Image Upscaler project. This React application allows users to enter the URL of an image they want to upscale. The frontend communicates with the backend server to perform the image upscaling using the waifu2x library. The upscaled image is then available for download.
