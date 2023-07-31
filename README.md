@@ -33,6 +33,5 @@ The Frontend Repository for the Waifu2x Image Upscaler project. This React appli
 
 ## Backend Repository
 
-- [Link to Backend Repository](https://github.com/your-username/your-backend-repo) <!-- Replace with the actual link to your backend repository -->
+- [Link to Backend Repository](https://github.com/ozanaw0w/image-upscale-backend)
 
-[Optional: You can include a short description or summary about the backend repository here.]
